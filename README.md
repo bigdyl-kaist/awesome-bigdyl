@@ -143,7 +143,7 @@ url={https://openreview.net/forum?id=90yw2uM6J5}
 }
 </code></pre></details>
 
-- Hyowon Wi, Yehjin Shin, and Noseong Park, "Continuous-time Autoencoders for Regular and Irregular Time Series Imputation," ACM International Web Search and Data Mining Conference (WSDM), 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3616855.3635831) <details><summary>BibTeX</summary><pre><code>@inproceedings{wi2024cta
+- Hyowon Wi, Yehjin Shin, and Noseong Park, "Continuous-time Autoencoders for Regular and Irregular Time Series Imputation," ACM International Web Search and Data Mining Conference (WSDM), 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3616855.3635831)[[Code]](https://github.com/hyowonwi/CTA) <details><summary>BibTeX</summary><pre><code>@inproceedings{wi2024cta
 author = {Wi, Hyowon and Shin, Yehjin and Park, Noseong},
 title = {Continuous-time Autoencoders for Regular and Irregular Time Series Imputation},
 year = {2024},
