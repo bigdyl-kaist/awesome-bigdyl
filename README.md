@@ -19,7 +19,7 @@ A curated list of publications from the Laboratory of Big Data Analytics and Lea
 
 - Seonkyu Lim, Jeongwhan Choi, Noseong Park, Sang-Ha Yoon, Shinhyuck Kang, Young-Min Kim, and Hyunjoong Kang, "Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP," ACM International Conference on Information and Knowledge Management (CIKM), 2024.
 
-- Fan Wu, Woojin Cho, David Korotky, Sanghyun Hong, Donsub Rim, Noseong Park, and Kookjin Lee, "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks," ACM International Conference on Information and Knowledge Management (CIKM), 2024.
+- Fan Wu, Woojin Cho, David Korotky, Sanghyun Hong, Donsub Rim, Noseong Park, and Kookjin Lee, "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks," ACM International Conference on Information and Knowledge Management (CIKM), 2024. [[Paper]](https://arxiv.org/abs/2409.08732)[[Code]](https://github.com/sklim84/NCDENow_CIKM2024)
 
 - Sheo Yon Jhin, Seojin Kim, and Noseong Park, "Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization," ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671969)[[Code]](https://github.com/sheoyon-jhin/contime)  <details><summary>BibTeX</summary><pre><code>@inproceedings{jhin2024contime,
   title={Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization},
